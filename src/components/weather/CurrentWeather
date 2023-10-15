@@ -1,0 +1,5 @@
+const { useState } = require("react")
+
+const CurrentWeather = ({location}) => {
+    const [weather, setWeather] = useState();
+}

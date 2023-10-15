@@ -1,3 +1,4 @@
+import '@/styles/homepage.css'
 import Image from 'next/image'
 
 export default function Home() {
